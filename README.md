@@ -11,7 +11,6 @@
   <img src="https://img.icons8.com/nolan/2x/javascript.png" width="100" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/flutter.png" width="100" alt="flutter"/>
   <img src="https://img.icons8.com/fluency/48/python.png" width="100" alt="python"/>
-  <img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100" alt="Laravel">
 </table>
 
 <div> 
