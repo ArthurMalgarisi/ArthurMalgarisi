@@ -1,4 +1,4 @@
-# Hello World, I'm Arthur, be very welcome
+# Hello World, I'm Arthur, be very welcome.
 
 <table>
   <a href="https://github.com/ArthurMalgarisi">
