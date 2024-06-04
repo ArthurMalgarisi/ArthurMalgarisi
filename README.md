@@ -4,7 +4,7 @@
   <a href="https://github.com/ArthurMalgarisi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ArthurMalgarisi&show_icons=true&ayout=compact&langs_count=6&theme=tokyonight"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurMalgarisi&layout=compact&langs_count=6&theme=tokyonight"/>
-  <img src="https://img.icons8.com/color/2x/vue-js.png" width="110" alt="Vue.js">
+  <img src="https://img.icons8.com/color/2x/vue-js.png](https://icons8.com.br/icon/asWSSTBrDlTW/react-a-javascript-library-for-building-user-interfaces)" width="110" alt="Vue.js">
   <img src="https://img.icons8.com/color/2x/html-5.png" width="101" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="110" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="110" alt="Bootstrap">
