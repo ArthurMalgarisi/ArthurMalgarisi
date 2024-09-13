@@ -7,7 +7,7 @@
   <img src="https://img.icons8.com/color/2x/html-5.png" width="101" alt="HTML5">
   <img src="https://img.icons8.com/color/2x/css3.png" width="110" alt="CSS3">
   <img src="https://img.icons8.com/color/2x/bootstrap.png" width="110" alt="Bootstrap">
-  <img src="https://icons8.com/icon/108784/javascript" width="110" alt="JavaScript">
+  <img src="https://img.icons8.com/color/2x/javascript" width="110" alt="JavaScript">
   <img src="https://img.icons8.com/color/48/flutter.png" width="110" alt="flutter"/>
   <img src="https://img.icons8.com/fluency/48/python.png" width="110" alt="python"/>
 </table>
