@@ -10,7 +10,7 @@
 <img src="https://img.icons8.com/fluency/48/javascript.png" width="90" alt="JavaScript"/>
   <img src="https://img.icons8.com/color/48/flutter.png" width="90" alt="flutter"/>
   <img src="https://img.icons8.com/fluency/48/python.png" width="90" alt="python"/>
-<img src="https://img.icons8.com/ultraviolet/40/react--v1.png" width="90" alt="React.js"/>
+<img src="https://img.icons8.com/fluency/48/react.png" width="110" alt="React.js"/>
 </table>
 
 <div> 
