@@ -43,7 +43,7 @@ This GitHub is more than just a code repository — it’s a reflection of my jo
 ![Linux](https://img.shields.io/badge/Linux-323330?style=flat&logo=linux&logoColor=white)
 
 
-## 📈 🚀  My GitHub Stats
+## 📈 My GitHub Stats
 
 <p align="center">
   <img  src="https://github-readme-stats.vercel.app/api?username=ArthurMalgarisi&show_icons=true&ayout=compact&langs_count=6&theme=tokyonight"/>
