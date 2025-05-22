@@ -28,10 +28,12 @@ This GitHub is more than just a code repository — it’s a reflection of my jo
 ![JavaSciprt](https://camo.githubusercontent.com/849a6060207020da1289e5e796ab5313646ae5cac8a6bee756d8d55f59efa19f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4a6176615363726970742d3333333333333f7374796c653d666c6174266c6f676f3d6a617661736372697074)
 ![TypeScript](https://camo.githubusercontent.com/578c92902e9868515a7b2716611a0f6a3ae8421e0b19e4b9458c8f007198aa64/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d547970655363726970742d3333333333333f7374796c653d666c6174266c6f676f3d74797065736372697074266c6f676f436f6c6f723d324437394337)
 ![React](https://camo.githubusercontent.com/7c93bbc57eb6905b1ed71e40e206bfd9c36cbdcb400d2f9c5c4a3dbf9a188b42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d52656163742d3333333333333f7374796c653d666c6174266c6f676f3d7265616374)
-![NExt.js](https://camo.githubusercontent.com/4a0c160ac8c31d10b29b80ebb9a926db0918f346cb84da6ef7789a43ae3b7524/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6578742e6a73)
+![Next.js](https://camo.githubusercontent.com/4a0c160ac8c31d10b29b80ebb9a926db0918f346cb84da6ef7789a43ae3b7524/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6578742e6a732d3333333333333f7374796c653d666c6174266c6f676f3d6e6578742e6a73)
 ![Tailwind](https://camo.githubusercontent.com/478ca9225efb3770de84bdd732f15acf45297cbd5da05bc3e7e109de5e01ad42/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d5461696c77696e642d3333333333333f7374796c653d666c6174266c6f676f3d7461696c77696e642d637373)
 ![Flutter](https://img.shields.io/badge/Flutter-323330?style=flat&logo=flutter)
 ![Django](https://img.shields.io/badge/Django-323330?style=flat&logo=django)
+![Wordpress](https://img.shields.io/badge/Wordpress-323330?style=flat&logo=wordpress&logoColor=white)
+![Markdown]([https://img.shields.io/badge/Bootstrap-323330?style=flat&logo=bootstrap](https://camo.githubusercontent.com/36c7f66ddb89a47365bf4a7f2796222d41cb1ffea343f3b6c858712a0403642a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3332333333303f7374796c653d666c6174266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465))
 
 ⚙️  Back-end & databases:
 
@@ -41,6 +43,8 @@ This GitHub is more than just a code repository — it’s a reflection of my jo
 ![MySql](https://img.shields.io/badge/MySQL-323330?style=flat&logo=mysql)
 ![Python](https://img.shields.io/badge/Python-323330?style=flat&logo=python)
 ![Linux](https://img.shields.io/badge/Linux-323330?style=flat&logo=linux&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-323330?style=flat&logo=oracle&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-323330?style=flat&logo=firebase)
 
 
 ## 📈 My GitHub Stats
