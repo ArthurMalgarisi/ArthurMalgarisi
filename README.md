@@ -33,7 +33,7 @@ This GitHub is more than just a code repository — it’s a reflection of my jo
 ![Flutter](https://img.shields.io/badge/Flutter-323330?style=flat&logo=flutter)
 ![Django](https://img.shields.io/badge/Django-323330?style=flat&logo=django)
 ![Wordpress](https://img.shields.io/badge/Wordpress-323330?style=flat&logo=wordpress&logoColor=white)
-[Markdown](https://camo.githubusercontent.com/36c7f66ddb89a47365bf4a7f2796222d41cb1ffea343f3b6c858712a0403642a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3332333333303f7374796c653d666c6174266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
+![Markdown](https://camo.githubusercontent.com/36c7f66ddb89a47365bf4a7f2796222d41cb1ffea343f3b6c858712a0403642a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3332333333303f7374796c653d666c6174266c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)
 
 ⚙️  Back-end & databases:
 
